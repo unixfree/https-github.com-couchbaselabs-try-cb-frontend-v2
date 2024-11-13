@@ -1,5 +1,7 @@
 # try-cb-frontend-v2
 
+이 코드는 https://github.com/couchbaselabs/try-cb-frontend-v2 에서 가지고 온 것입니다.
+
 This is a sample application for getting started with Couchbase Server and our SDKs.
 The application runs a single page web UI for demonstrating SQL for Documents (N1QL), Sub-document requests and Full Text Search (FTS) querying capabilities. y
 It uses Couchbase Server together with a server backend using one of our SDKs, and Vue and Bootstrap on the front end.
